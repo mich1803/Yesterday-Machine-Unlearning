@@ -29,7 +29,7 @@ This component focuses on a text generation model, GPT-2. The objective is to re
 
 ### How to try it
 
-#### On Google Colab:
+#### On Google Colab (better to use):
 
 1. Open the notebooks on Google Colab:
    - [MNIST Classifier](https://githubtocolab.com/mich1803/Yesterday-Machine-Unlearning/blob/main/Machine_Unlearning_MNIST.ipynb)
