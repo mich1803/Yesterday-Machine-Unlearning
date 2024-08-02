@@ -5,7 +5,7 @@
 Welcome to the "Yesterday" project, an introduction to the concept of machine unlearning. This repository contains work aimed at understanding and implementing methods to make machine learning models "forget" specific information. The project includes two main components:
 
 1. **Forgetting the Digit '6' in an MNIST Classifier**
-2. **Forgetting the Beatles from a Pretrained GPT-2 Model**
+2. **Forgetting the Beatles from GPT-2 Language Model**
 
 Motivated by the movie [Yesterday](https://en.wikipedia.org/wiki/Yesterday_(2019_film)) where the lead character wakes up in a Beatles-less world.
 
