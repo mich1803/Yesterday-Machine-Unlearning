@@ -38,7 +38,7 @@ This component focuses on a text generation model, GPT-2. The objective is to re
 #### On local:
 
 1. Clone this repository.
-2. Create a virtual encironment.
+2. Create a virtual environment.
 3. Install the requirements with `pip install -r requirements.txt` in your virtual environment.
 4. Open the notebooks in your IDE.
 
